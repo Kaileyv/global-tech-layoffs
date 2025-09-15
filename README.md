@@ -2,12 +2,12 @@
 An analysis of the ongoing layoffs occurring in technology industries around the globe from 2020 to 2025, using SQL for data cleaning and exploration and Tableau for building a dashboard to identify trends and outliers.
 
 ## Table of Contents
-* [About the Project](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#about-the-project)
-* [Data Source](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#data-source)
-* [Tools Used](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#tools-used)
-* [Project Structure](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#tools-used)
-* [Tableau Dashboard](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#tableau-dashboard)
-* [Key Insights](https://github.com/Kaileyv/global-tech-layoffs/edit/main/README.md#key-insights)
+* [About the Project](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#about-the-project)
+* [Data Source](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#data-source)
+* [Tools Used](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#tools-used)
+* [Project Structure](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#project-structure)
+* [Tableau Dashboard](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#tableau-dashboard)
+* [Key Insights](https://github.com/Kaileyv/global-tech-layoffs/tree/main?tab=readme-ov-file#key-insights)
 
 ## About the Project
 This project analyzes global tech layoffs to understand the varying degrees to which tech layoffs have impacted industries and companies across the globe from 2020 to 2025.
