@@ -33,12 +33,15 @@ global-tech-layoffs/
 ├── tableau/               
 │   └── Global Tech Layoffs 2020-2025.twbx          # Tableau dashboard
 │
+├── images/               
+│   └── tech_layoffs_dashboard.png                  # Tableau dashboard image
+│
 └── README.md                                       # Project overview
 ```
 ## Tableau Dashboard
 [View Dashboard on Tableau Public](https://public.tableau.com/shared/J87HMF5G3?:display_count=n&:origin=viz_share_link)
 
-![](https://github.com/Kaileyv/global-tech-layoffs/blob/main/tech_layoffs_dashboard.png)
+![](https://github.com/Kaileyv/global-tech-layoffs/blob/main/images/tech_layoffs_dashboard.png)
 
 ## Key Insights
 * The _**year of 2023**_ marks the highest number of _**264,220 tech layoffs**_ from 2020 to 2025
