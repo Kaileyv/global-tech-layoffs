@@ -36,14 +36,17 @@ global-tech-layoffs/
 └── README.md                                       # Project overview
 ```
 ## Tableau Dashboard
-[View Global Tech Layoffs Dashboard](https://public.tableau.com/shared/J87HMF5G3?:display_count=n&:origin=viz_share_link)
+[View Dashboard on Tableau Public](https://public.tableau.com/shared/J87HMF5G3?:display_count=n&:origin=viz_share_link)
 
 ![](https://github.com/Kaileyv/global-tech-layoffs/blob/main/tech_layoffs_dashboard.png)
 
 ## Key Insights
 * The _**year of 2023**_ marks the highest number of _**264,220 tech layoffs**_ from 2020 to 2025
+
 * The _**United States**_ suffered the most tech layoffs globally from 2020 to 2025, with the total of _**509,156 tech layoffs**_ at the time of analysis
+
 * The _**company**_ with the most tech layoffs from 2020 to 2025 is _**Intel**_ with a total of _**38,115 tech layoffs**_
+
 * The _**hardware**_ industry has the most tech layoffs from 2020 to 2025, totaling _**81,428 tech layoffs**_ at the time of analysis
 
 
