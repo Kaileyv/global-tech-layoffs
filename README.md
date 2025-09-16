@@ -17,8 +17,8 @@ The data was sourced from Kaggle.com and contains:
 * layoffs.csv
 
 ## Tools Used
-* **SQL (MySQL)** - data cleaning, querying, filtering, and aggregating
-* **Tableau** - dashboard and visual storytelling
+* **SQL (MySQL)** - Performed data cleaning, querying, filtering, and aggregations to extract and structure insights
+* **Tableau** - Designed dashboard and conveyed insights through visual storytelling
 
 ## Project Structure
 ```
@@ -31,7 +31,7 @@ global-tech-layoffs/
 │   └── tech_layoffs.sql                            # SQL cleaning and queries  
 │
 ├── tableau/               
-│   └── Global Tech Layoffs 2020-2025.twbx          # Tableau dashboards
+│   └── Global Tech Layoffs 2020-2025.twbx          # Tableau dashboard
 │
 └── README.md                                       # Project overview
 ```
