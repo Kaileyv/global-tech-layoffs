@@ -36,6 +36,8 @@ global-tech-layoffs/
 ├── images/               
 │   └── tech_layoffs_dashboard.png                  # Tableau dashboard image
 │
+├── .gitattributes
+│
 └── README.md                                       # Project overview
 ```
 ## Tableau Dashboard
